@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Antje1403
 - 👀 I’m interested in Data Science with biological or pharmaceutical data
 - 🌱 I’m currently learning more about statistics and machine learning models
-- 📫 How to reach me ...
+- 📫 Reach me [on my website](https://gratis-4722476.webadorsite.com/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: It took me until the PhD to notice that wet lab is not for me but I enjoy working with the computer more. 
 
